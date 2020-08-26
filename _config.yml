@@ -1,0 +1,14 @@
+title: FE 无事通讯
+theme: jekyll-theme-primer
+
+baseurl: /fe-newsletter
+
+readme_index:
+  enabled:          true
+
+plugins:
+- jekyll-optional-front-matter
+- jekyll-readme-index
+- jekyll-default-layout
+- jekyll-titles-from-headings
+- jekyll-relative-links
