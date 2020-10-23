@@ -27,7 +27,7 @@ date: 2020-10-23
 
 The Pudding 本身完全免费，也没有扰人的广告，那团队是怎么活下来的呢？同一拨人有另一个商业化产品 The Polygraph ，接受定制化项目合作，The Pudding 便是一个团队能力展示板和探索空间。
 
-其中一名编辑分享了[工作流程和教学]([Making Internet Things, Part 1: Working with Data](https://pudding.cool/process/how-to-make-dope-shit-part-1/))，对有志于做新媒体媒介探索的人是一个不错的系列。
+其中一名编辑分享了[Making Internet Things, Part 1: Working with Data](https://pudding.cool/process/how-to-make-dope-shit-part-1/)，对有志于做新媒体媒介探索的人是一个不错的系列。
 
 ## 资源
 
