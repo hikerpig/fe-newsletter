@@ -18,6 +18,8 @@ Chromium 项目的工程师，面向项目新人分享的浏览器渲染(renderi
 
 这个 PPT 在 18 年就推出了， 由于 Chrome 一直在发展，架构有在变化，目前该 PPT 的版本是 20 年 11 月更新的，基于 Chrome 88 版本。
 
+![](https://i.loli.net/2020/11/22/cxehUpkCsLZtP8Y.png)
+
 ### [AddyOsmani.com - The JavaScript Self-Profiling API](https://addyosmani.com/blog/js-self-profiling/)
 
 还在 W3C [草案阶段](https://wicg.github.io/js-self-profiling/) 的 JS Self-Profiling API 介绍，一个使用 JS 对自身进行性能剖析(profiling)的标准提议。
